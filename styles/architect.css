@@ -1,3 +1,8 @@
+/* work sans font from google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Italianno&family=Roboto:wght@400;500;700;900&family=Work+Sans:wght@400;500;600;700;800&display=swap');
+
 *{
-    background-color: aqua;
+    font-family: 'Italianno', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Work Sans', sans-serif;
 }
